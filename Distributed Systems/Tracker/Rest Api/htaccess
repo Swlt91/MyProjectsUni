@@ -1,0 +1,18 @@
+# Turn rewrite engine on
+Options +FollowSymlinks
+RewriteEngine on
+
+<Limit GET POST PUT DELETE>
+order deny,allow
+allow from all
+</Limit>
+
+RewriteRule ^user$   /api/UserIndex.php?class=all [nc,qsa]
+RewriteRule ^user/(\d+)$   /api/UserIndex.php?class=$1 [nc,qsa]
+
+RewriteRule ^calendar$   /api/CalendarIndex.php?calEntry=all [nc,qsa]
+RewriteRule ^calendar/(\d+)$   /api/CalendarIndex.php?calEntry=$1 [nc,qsa]
+
+# HTID:4698816: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:4698816:

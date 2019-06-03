@@ -1,0 +1,14 @@
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\bin\Debug\TorrentProgram.exe.config
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\bin\Debug\TorrentProgram.exe
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\bin\Debug\TorrentProgram.pdb
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.Properties.Resources.resources
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.csproj.GenerateResource.cache
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.csproj.CoreCompileInputs.cache
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.exe
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.pdb
+c:\users\stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.csprojAssemblyReference.cache
+C:\Users\Stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.IdForm.resources
+C:\Users\Stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.LoadingForm.resources
+C:\Users\Stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.CreateTorrentDialog.resources
+C:\Users\Stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.TorrentMainForm.resources
+C:\Users\Stankbeast\source\repos\TorrentProgram\TorrentProgram\obj\Debug\TorrentProgram.VerifyTorrentDialog.resources
